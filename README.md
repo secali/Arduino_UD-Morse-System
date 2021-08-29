@@ -1,4 +1,7 @@
 # Arduino UD-Morse System.
+
+<img src="https://github.com/secali/Arduino_UD-Morse-System/blob/864652e7956b39a44072f4c8333cb348ade783ef/Scheme-Testing-on-Arduino-Uno.png">
+
 Sketch que controla si un tono es tocado en un porterillo electrónico (con pulsaciones cortas o largas, basado en morse). Si el tono es correcto se emite una señal para abrir una puerta.
 
 Este proyecto viene a solventar el siguiente problema real:
